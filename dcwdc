@@ -1,0 +1,3 @@
+$ git clone https://github.com/tellform/docker_files
+$ cd docker_files
+$ docker-compose up -d
